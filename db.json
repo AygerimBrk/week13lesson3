@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "name": "eee",
+      "lastName": "fff",
+      "phone": "0303945857",
+      "id": 1
+    },
+    {
+      "name": "ss",
+      "lastName": "dd",
+      "phone": "8757346735",
+      "id": 2
+    }
+  ]
+}
